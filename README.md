@@ -14,9 +14,9 @@ Some important Links
 
 
 1. 123apps.com
-2. Flowcv.io. ----Cv making
+2. Flowcv.io ----Cv making
 3. Freelearninglist.org
-4. Sejda.com.  ---Pdf editor
+4. Sejda.com  ---Pdf editor
 5. Ilovepdf.com ----pdf editor 
 6. Cloudconvert.com
 7. Hubspot.com. ---Email signature generater
