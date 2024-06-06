@@ -1,15 +1,15 @@
 # Important Info
 Some important Links
-https://transform.tools  -- Transform code
-https://convertio.co/  -- File converter
-https://codebeautify.org/  -- Beautify your code
-https://ray.so/   -- Change code format
-https://z-lib.io/  -- Lots of ebook
-https://roadmap.sh/  -- Career Road map
-https://explainshell.com/  -- ExplainShell breaks down difficult shell commands
-https://smalldev.tools/  --- Good site for developer. Lots of tool
-https://devhints.io/  -- Cheatsheet for various language
-https://unminify.com/  -- Reverse the minified files
+1. https://transform.tools  -- Transform code
+2. https://convertio.co/  -- File converter
+3. https://codebeautify.org/  -- Beautify your code
+4. https://ray.so/   -- Change code format
+5. https://z-lib.io/  -- Lots of ebook
+6. https://roadmap.sh/  -- Career Road map
+7. https://explainshell.com/  -- ExplainShell breaks down difficult shell commands
+8. https://smalldev.tools/  --- Good site for developer. Lots of tool
+9. https://devhints.io/  -- Cheatsheet for various language
+10. https://unminify.com/  -- Reverse the minified files
 
 
 
