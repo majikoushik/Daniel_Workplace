@@ -1,5 +1,7 @@
 # Important Info
 Some important Links
+1. https://www.symbolab.com/ -- AI Math equation
+1. https://quillbot.com/  -- AI Repharse
 1. https://projectlearn.io/  --- Get code for good project
 1. https://www.astria.ai/  -- AI image creation 
 1. https://www.poised.com/  -- AI presentation Feedback
